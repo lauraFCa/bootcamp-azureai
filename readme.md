@@ -13,4 +13,4 @@ Acessar página "Automated ML"
 3. Revisar o modelo
 4. Pressionar Deploy e testar o modelo
 5. Testar o serviço implantado
-Olhar os resultados obtivos para validar
+Olhar os resultados obtidos para validar (pontos de extremidade)
